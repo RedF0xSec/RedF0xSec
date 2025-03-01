@@ -1,7 +1,7 @@
-# 🛡️ Cybersecurity Portfolio
+# Hi, I'm Elena🚀 
 
 ## 👋 About Me
-Hi! 🚀 My name is Elena. I have a bachelor's degree in Computer Engineering and I'm currently specializing in Cybersecurity. Technology is my passion, and cybersecurity is my mission! 🔐✨ 
+I have a bachelor's degree in Computer Engineering and I'm currently specializing in Cybersecurity. My journey in Computer Engineering has sparked a passion for cybersecurity, and now I'm eager to transition into this field—specifically aiming to become a professional ethical hacker and penetration tester.🔐✨ 
 
 - 🔍 Specializing in **Penetration Testing, Red teaming, Web Security, Network Security and Malware Analysis**
 - 🎯 Goal: Enhancing infrastructure security through penetration testing and vulnerability research.
