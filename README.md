@@ -21,7 +21,9 @@ Here are some of my projects and security tests:
 
 ### 🔹 [CIE-Auth]
 📌 **Description:** This project aims to create a secure online auction platform that leverages the Italian Electronic Identity Card (CIE) for user authentication. The system ensures that only verified users can participate in auctions, enhancing security, integrity, and transparency in transactions.
+
 📂 **Technologies:** ECDSA Digital Signatures, Merkle Trees, TLS 1.3 and Zero-Knowledge Proofs.
+
 🔗 **Repository Link:** [GitHub Repo](https://github.com/RedF0xSec/CIE-Auth)
 
 ## 📝 Blog
