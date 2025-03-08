@@ -32,9 +32,3 @@ This section will contain my blog posts about cybersecurity, research, and findi
 📌 **Ethereum Unpacked**:[here](https://github.com/RedF0xSec/CyberTrail/blob/main/_posts/2025-03-08-Ethereum%20Unpacked.md).
 
 ---
-
-## 📞 Contact
-- 📧 Email: [elenafalcone2001@gmail.com]
-- 🔗 LinkedIn: [linkedin.com/ElenaFalcone](https://www.linkedin.com/in/elena-falcone-21a898270/)
-
-If you'd like to collaborate or have any questions, feel free to reach out! 🚀
