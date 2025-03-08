@@ -26,6 +26,7 @@ Here are some of my projects and security tests:
 
 ## 📝 Blog
 This section will contain my blog posts about cybersecurity, research, and findings:
+
 📌 **Ethereum Unpacked**:[here](https://github.com/RedF0xSec/CyberTrail/blob/main/_posts/2025-03-08-Ethereum%20Unpacked.md).
 
 ---
