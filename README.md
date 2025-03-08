@@ -26,6 +26,13 @@ Here are some of my projects and security tests:
 
 🔗 **Repository Link:** [GitHub Repo](https://github.com/RedF0xSec/CIE-Auth)
 
+### 🔹 [Weather Forecasting App]
+📌 **Description:** Weather forecasting web application focusing on containerization with Docker and Kubernetes. The system leverages machine learning for weather predictions while ensuring scalability, high availability, and security through advanced deployment strategies.
+
+📂 **Technologies:** Scikit-learn library, XGBoost, Jupiter Notebooks, Docker, Streamlit, Kubernetes and Kind.
+
+🔗 **Repository Link:** [GitHub Repo](https://github.com/RedF0xSec/Weather-Forecasting-App)
+
 ## 📝 Blog
 This section will contain my blog posts about cybersecurity, research, and findings:
 
