@@ -33,23 +33,6 @@ Here are some of my projects and security tests:
 
 🔗 **Repository Link:** [GitHub Repo](https://github.com/RedF0xSec/Weather-Forecasting-App)
 
-## 📂 Projects & Pentesting Reports
-Here are some of my projects and security tests:
-
-### 🔹 [CIE-Auth]
-📌 **Description:** This project aims to create a secure online auction platform that leverages the Italian Electronic Identity Card (CIE) for user authentication. The system ensures that only verified users can participate in auctions, enhancing security, integrity, and transparency in transactions.
-
-📂 **Technologies:** ECDSA Digital Signatures, Merkle Trees, TLS 1.3 and Zero-Knowledge Proofs.
-
-🔗 **Repository Link:** [GitHub Repo](https://github.com/RedF0xSec/CIE-Auth)
-
-### 🔹 [Weather Forecasting App]
-📌 **Description:** Weather forecasting web application focusing on containerization with Docker and Kubernetes. The system leverages machine learning for weather predictions while ensuring scalability, high availability, and security through advanced deployment strategies.
-
-📂 **Technologies:** Scikit-learn library, XGBoost, Jupiter Notebooks, Docker, Streamlit, Kubernetes and Kind.
-
-🔗 **Repository Link:** [GitHub Repo](https://github.com/RedF0xSec/Weather-Forecasting-App)
-
 ### 🔹 [Penetration Testing Report]
 📌 **Description:** This repository contains a detailed **Penetration Test Report** for the **Penetration Testing and Ethical Hacking Exam** network. The test aims to evaluate the security of internal systems, identify vulnerabilities, and report findings related to flaws such as Remote Code Execution, Token Impersonation, and improper permission assignments.
 
