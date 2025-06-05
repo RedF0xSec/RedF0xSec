@@ -9,7 +9,7 @@ I have a bachelor's degree in Computer Engineering and I'm currently specializin
 ---
 
 ## 🔧 Technical Skills
-- **Programming Languages:** Python, Bash, C, Assembly, Java, PHP, R
+- **Programming Languages:** Python, Bash, C, Assembly, Java, PHP, R, Javascript
 - **Hacking Tools:** Metasploit, Wireshark, Nmap, Hydra, JackTheRipper, PetitPotam, Rubeus etc.
 - **Operating Systems:** Linux, Kali Linux and Windows
 - **Threat Modelling and risk analysis**
@@ -24,12 +24,16 @@ Here are some of my projects and security tests:
 
 📂 **Technologies:** ECDSA Digital Signatures, Merkle Trees, TLS 1.3 and Zero-Knowledge Proofs.
 
+🛡️ **Focus Areas:** Treat modelling, authentication protocols, cryptographic identity verification, privacy-preserving mechanisms, trusted environments, secure-by-design architecture.
+
 🔗 **Repository Link:** [GitHub Repo](https://github.com/RedF0xSec/CIE-Auth)
 
 ### 🔹 [Weather Forecasting App]
 📌 **Description:** Weather forecasting web application focusing on containerization with Docker and Kubernetes. The system leverages machine learning for weather predictions while ensuring scalability, high availability, and security through advanced deployment strategies.
 
 📂 **Technologies:** Scikit-learn library, XGBoost, Jupiter Notebooks, Docker, Streamlit, Kubernetes and Kind.
+
+🛡️ **Focus Areas**: ML model deployment, container orchestration, infrastructure security, scalable application design, MLOps fundamentals.
 
 🔗 **Repository Link:** [GitHub Repo](https://github.com/RedF0xSec/Weather-Forecasting-App)
 
@@ -38,7 +42,18 @@ Here are some of my projects and security tests:
 
 📂 **Technologies:** Nmap, Metasploit, Burp Suite, Nikto, Wireshark, Hydra, Netcat, John the Ripper.
 
+🛡️ **Focus Areas**: Red teaming, vulnerability assessment, lateral movement, post-exploitation, internal network compromise.
+
 🔗 **Repository Link:** [GitHub Repo](https://github.com/RedF0xSec/PenetrationTestingReport)
+
+### 🔹 [AI-Powered Malware Detection System]
+📌 **Description:** Malware detection system developed using both Machine Learning (XGBoost) and Deep Learning (MalConv2) approaches. The system was trained on PE files using the SOREL-20M and VirusShare datasets, with in-depth feature selection via SHAP, adversarial robustness evaluation (GAMMA attacks), and defense strategies including Adversarial Training and Focal Loss. Final models achieved strong generalization with recall on malware over 80%.
+
+📂 **Technologies:** Python, PyTorch, XGBoost, LIEF, SHAP, Focal Loss, Binary Classification, Grid Search, Adversarial Machine Learning.
+
+🛡️ **Focus Areas**: Static malware analysis, adversarial robustness, interpretability (SHAP), feature engineering, hyperparameter tuning, evasion resilience.
+
+🔗 **Repository Link:** [GitHub Repo](https://github.com/RedF0xSec/MalwareDetectionSystem)
 
 ## 📝 Blog
 This section will contain my blog posts about cybersecurity, research, and findings:
