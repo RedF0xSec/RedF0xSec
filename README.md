@@ -9,10 +9,17 @@ I have a bachelor's degree in Computer Engineering and I'm currently specializin
 ---
 
 ## 🔧 Technical Skills
-- **Programming Languages:** Python, Bash, C, Assembly, Java, PHP, R, Javascript
-- **Hacking Tools:** Metasploit, Wireshark, Nmap, Hydra, JackTheRipper, PetitPotam, Rubeus etc.
-- **Operating Systems:** Linux, Kali Linux and Windows
-- **Threat Modelling and risk analysis**
+### Cybersecurity & Systems
+- OS Security: Windows, Linux, Kali Linux
+- Virtualization & Containers: VMware, Hyper-V, Docker, Kubernetes
+- Penetration Testing & Red Teaming: Metasploit, Nmap, Wireshark, Hydra, JohnTheRipper, Rubeus, PetitPotam
+- Secure Coding, Threat Modeling & Risk Analysis
+- Network Security: Firewalls, IDS/IPS, VPN, SSH, Kerberos
+- Cryptography: symmetric/asymmetric encryption, hashing, digital signatures, etc.
+- Malware Analysis: static analysis, ML-based detection (MalConv2, XGBoost), adversarial robustness (GAMMA, adversarial training)
+- Adversarial Machine Learning & ML security applications
+- Blockchain & DLTs: Ethereum, Hyperledger, smart contract security
+- Decentralized Applications (DApps), digital identity & verifiable credentials
 
 ---
 
@@ -58,7 +65,7 @@ Here are some of my projects and security tests:
 ### 🔹 [ReviewChain: a blockchain-based review system]
 📌 **Description:** A decentralized review system for the restaurant industry built on Ethereum. It ensures authenticity through proof-of-purchase tokens, preserves user privacy, and rewards honest participation with NFTs. Developed using Solidity, smart contracts, and Web3 tools to combat fake reviews and manipulation.
 
-📂 **Technologies:**Ethereum, Solidity, Smart Contracts, Gaanche, Truffle, Slither, Tokens, NFTs.
+📂 **Technologies:** Ethereum, Solidity, Smart Contracts, Gaanche, Truffle, Slither, Tokens, NFTs.
 
 🛡️ **Focus Areas**: Threat modelling, security-by-design, blockchains, decentralization.
 
