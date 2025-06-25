@@ -21,7 +21,7 @@ I have a bachelor's degree in Computer Engineering and I'm currently specializin
 - Blockchain & DLTs: Ethereum, Hyperledger, smart contract security
 - Decentralized Applications (DApps), digital identity & verifiable credentials
 
-###Software Engineering
+### Software Engineering
 - Software architecture, unit & integration testing
 - Algorithms, data structures, computational complexity
 
