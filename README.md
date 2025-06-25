@@ -55,4 +55,14 @@ Here are some of my projects and security tests:
 
 🔗 **Repository Link:** [GitHub Repo](https://github.com/RedF0xSec/MalwareDetectionSystem)
 
+### 🔹 [ReviewChain: a blockchain-based review system]
+📌 **Description:** A decentralized review system for the restaurant industry built on Ethereum. It ensures authenticity through proof-of-purchase tokens, preserves user privacy, and rewards honest participation with NFTs. Developed using Solidity, smart contracts, and Web3 tools to combat fake reviews and manipulation.
+
+📂 **Technologies:**Ethereum, Solidity, Smart Contracts, Gaanche, Truffle, Slither, Tokens, NFTs.
+
+🛡️ **Focus Areas**: Threat modelling, security-by-design, blockchains, decentralization.
+
+🔗 **Repository Link:** [GitHub Repo](https://github.com/RedF0xSec/ReviewChain)
+
+
 ---
